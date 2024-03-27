@@ -1,0 +1,39 @@
+.c-green {
+    color:rgb(21, 160, 21);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.italic {
+    font-style: italic;
+}
+.c-red{
+    color: red;
+}
+.c-blue {
+    color:blue;
+}
+h1 {
+    font-style: italic; 
+    font-size: 32px;
+}
+h1,h2,h3,h4,h5,h6,p{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.center{
+    text-align: center;
+}
+h2{
+    font-size: 24px;
+    color:rgb(93, 32, 91);
+}
+p{
+    color:black;
+}
+ol,ul{
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+.listcenter{
+    list-style-position: inside;
+}
